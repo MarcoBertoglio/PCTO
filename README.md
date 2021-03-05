@@ -25,8 +25,9 @@ Angelo Roccaro:  [link] (https://youtu.be/3ZPQI2-ciWI) (35 minuti)
 lleshaj: [link] (https://www.youtube.com/watch?v=Qr-AK-1opBk) (primo video di 3)
 
 **Immagini utilizzate nel progetto:**
-
-
-
+![alt-text](https://github.com/MarcoBertoglio/PCTO/blob/main/base.png "Base")
+![alt-text] (https://github.com/MarcoBertoglio/PCTO/blob/main/sfondo1.png "Sfondo")
+![alt-text] (https://github.com/MarcoBertoglio/PCTO/blob/main/vacine.png "Vaccine")
+![alt-text] (https://github.com/MarcoBertoglio/PCTO/blob/main/virus.png "Virus")
 
 *Un ringraziamento speciale va fatto a tutte le persone e gli enti che ci hanno aiutato a comprendere e a svolgere al meglio questo tipo di progetto e in particolare a:  **IIT, Associazione Italiana Sclerosi Multipla, Università di Genova, Wondertech.** un rigraziamento da tutto il team.*
