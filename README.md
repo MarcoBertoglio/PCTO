@@ -10,7 +10,7 @@
 
 *Tecnologia scelta python con l'inclusione di pygames e opencv.
 
-il nostro progetto prevede un oggetto che si muove trammite lo spostamento di un colore che viene rilevato dalla fotocamera del pc, questo oggetto deve passare in mezzo a due ostacoli(ogni volta che lo si passa si ingrementa il punteggio) se si tocca l'ostacolo si perde e verranno forniti il punteggio fatto in quella partita e il record. Una volta che si supera un certo punteggio la velocita aumenterà e di conseguenza anche la difficoltà.
+il nostro progetto prevede un oggetto che si muove trammite lo spostamento di un colore che viene rilevato dalla fotocamera del pc, questo oggetto deve passare in mezzo a due ostacoli(i punteggi verranno conteggiati in basea quanti secondi il giocatore riesce a trascorrere senza perdere, il tempo migliore verà conservato finche non viene battuto) se si tocca l'ostacolo si perde e verranno forniti il punteggio fatto in quella partita e il record. Una volta che si supera un certo punteggio la velocita aumenterà e di conseguenza anche la difficoltà.
 
 *Qui di seguito ci sono **i link** dei vari tutorial su come implementare il gioco scelto dall'intero gruppo: 
 Galliano: [link] (https://www.youtube.com/watch?v=UZg49z76cLw) (durata 1:40:51)
